@@ -12,7 +12,7 @@ var value = value - quantity2
  }
 else{
     option==3
-    break
+break
 }
     }
 alert('programa encerrado')
